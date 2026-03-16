@@ -1,0 +1,12 @@
+data/*.csv
+*.zip
+*.gz
+*.tar
+*.7z
+*.html
+.env/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
